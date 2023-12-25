@@ -49,3 +49,7 @@ padding: 4px;
 flex-basis: 60px;
 border-radius: 10px;
 }
+.operator{
+    background-color: black;
+    color: aliceblue
+}
